@@ -1,16 +1,16 @@
 # Spotifuy
 Anti Ads Spotify Free untuk Desktop Windows
 
-#Kelebihan:
+# Kelebihan:
 - Menghilangkan Ads banner.
 - Menghilangkan Ads Audio.
 - Bisa skip music.
 - Hanya sekali patch, selanjutnya buka Spotify Clean.
 
-#Kekurangan:
+# Kekurangan:
 - Tidak bisa Download
 
-#Tutorial:
+# Tutorial:
 - Install Spotify untuk Desktop, bukan Spotify dari Microsoft Store.
 - Login akun Spotify mu.
 - Matikan Anti-Virus sementara.
