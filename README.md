@@ -20,7 +20,6 @@ Anti Ads Spotify Free untuk Desktop Windows
 - Spotify di Update:
 - Lakukan update Spotify jika diminta oleh Aplikasi Spotify.
 - Buka Spotify, biarkan.
-- Buka Folder BlockTheGSpot
 - Klik file Uninstall.exe
 - Setelah selesai, balik ke cara Installasi, di Tutorial atas.
 
