@@ -23,3 +23,6 @@ Anti Ads Spotify Free untuk Desktop Windows
 - Buka Folder BlockTheGSpot
 - Klik file Uninstall.exe
 - Setelah selesai, balik ke cara Installasi, di Tutorial atas.
+
+# Preview
+![120571064_3179386582170747_1538152042996645186_o](https://user-images.githubusercontent.com/26188697/95272840-a5bbc000-086b-11eb-8d9e-bad7a1b3f723.jpg)
